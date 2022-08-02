@@ -1,6 +1,8 @@
 MapsActivity.java
 package com.example.program8;
 
+AIzaSyCrYRuqcr6EiUeqNICBHu006f4vcFD1QGk
+
 import androidx.fragment.app.FragmentActivity;
 
 import android.location.Address;
