@@ -189,7 +189,7 @@ AndroidMainfest.xml
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAPTYkumdx_qL8KCypbGI5asIsNRXmt2p8" />
+            android:value="AIzaSyCSjkl77u4-Qbo-JLoS9WFh-yfktjJRqsk" />
 
         <activity
             android:name=".MapsActivity"
